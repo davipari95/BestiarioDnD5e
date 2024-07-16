@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Gothic;
+    src: url("Font/Balgruf.otf");
+}
+
+html {
+    font-family: Gothic;
+}
+
+table
+{
+    width: 100%;
+    text-align: center;
+}
